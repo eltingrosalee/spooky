@@ -1,1 +1,1 @@
-# spoopy
+# spooky
